@@ -9,14 +9,11 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q10
+//            //Q11
 //            {
-//                int copies = 100;
-//                object obj = copies;
-//                Console.WriteLine(copies);
-//                int num = (int)obj;
-
-//                Console.WriteLine(num);
+//                int? year = null;
+//                year = 2023;
+//                Console.WriteLine(year);
 //            }
 //        }
 //    }
