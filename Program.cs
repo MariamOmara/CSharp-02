@@ -10,27 +10,14 @@
 //        {
 
 
-//            //Q2
+//            //Q3
+//            //compiler-time error 
 //            {
-//                Book B1 = new Book();
-
-//                Console.WriteLine(B1.ToString());
-
-//                Console.WriteLine(B1.Equals(B1));
-
-//                Console.WriteLine(B1.GetHashCode());
-
-//                Console.WriteLine(B1.GetType());
+//                int pages = 464;
 //            }
-
-//        }
-
-
-
-//        class Book
-//        {
-//            string title;
-//            int pages;
 //        }
 //    }
 //}
+
+
+        
