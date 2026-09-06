@@ -9,11 +9,17 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q11
+//            //Q12       
 //            {
-//                int? year = null;
-//                year = 2023;
-//                Console.WriteLine(year);
+//                string? reviewer = null;
+//                if (reviewer != null)
+//                {
+//                    Console.WriteLine(reviewer.Length);
+//                }
+//                else
+//                {
+//                    Console.WriteLine("Reviewer is null");
+//                }
 //            }
 //        }
 //    }
