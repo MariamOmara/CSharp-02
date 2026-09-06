@@ -9,10 +9,23 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q7
+//            //Q8
 
 //            {
-//                int num = Convert.ToInt32("num");
+//                string yearText = "2023";
+//                int year = int.Parse(yearText);
+//                string badText = "abc";
+//                int result;
+//                if
+//                    (int.TryParse(badText, out result))
+
+//                {
+//                    Console.WriteLine(result);
+//                }
+//                else
+//                {
+//                    Console.WriteLine("Invalid number");
+//                }
 //            }
 //        }
 //    }
