@@ -9,10 +9,11 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q5
+//            //Q6
+
 //            {
-//                int pages = 300;
-//                double p1 = pages;
+//                double price = 49.99;
+//                int x = (int)price;
 //            }
 //        }
 //    }
