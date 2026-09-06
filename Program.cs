@@ -9,11 +9,10 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q6
+//            //Q7
 
 //            {
-//                double price = 49.99;
-//                int x = (int)price;
+//                int num = Convert.ToInt32("num");
 //            }
 //        }
 //    }
