@@ -10,14 +10,23 @@
 //        {
 
 
-//            //Q3
-//            //compiler-time error 
+//            //Q4
 //            {
-//                int pages = 464;
+//                try
+//                {
+//                    int x = 10;
+//                    int y = 0;
+//                    int result = x / y;
+//                }
+//                catch (DivideByZeroException)
+//                {
+//                    Console.WriteLine(" cannot divided by zero ");
+//                }
+//                finally
+//                {
+//                    Console.WriteLine("Done");
+//                }
 //            }
 //        }
 //    }
 //}
-
-
-        
