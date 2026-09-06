@@ -9,12 +9,14 @@
 //        static void Main(string[] args)
 //        {
 
-//            //Q9
-
-
+//            //Q10
 //            {
-//                string name = 464.ToString();
-//                Console.WriteLine(464.GetType());
+//                int copies = 100;
+//                object obj = copies;
+//                Console.WriteLine(copies);
+//                int num = (int)obj;
+
+//                Console.WriteLine(num);
 //            }
 //        }
 //    }
