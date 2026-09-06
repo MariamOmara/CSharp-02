@@ -8,16 +8,25 @@
 //    {
 //        static void Main(string[] args)
 //        {
-//            //Q1
+
+
+//            //Q2
 //            {
 //                Book B1 = new Book();
-//                object name = B1;
-//                Console.WriteLine(name);
+
+//                Console.WriteLine(B1.ToString());
+
+//                Console.WriteLine(B1.Equals(B1));
+
+//                Console.WriteLine(B1.GetHashCode());
+
+//                Console.WriteLine(B1.GetType());
 //            }
+
 //        }
 
 
-     
+
 //        class Book
 //        {
 //            string title;
