@@ -6,21 +6,17 @@
 //        static void Main(string[] args)
 //        {
 
-//            // Q14
+//            // Q15
 
 //            {
 
-//                string? title = null;
+//                string? name = "Ahmed";
 
-//                Console.WriteLine(title ?? "Untitled");
+//                string confirmedName = name!;
 
-//                title ??= "Untitled";
-
-//                Console.WriteLine(title);
-
+//                Console.WriteLine(confirmedName);
 //            }
 //        }
 //    }
 //}
 
-    
